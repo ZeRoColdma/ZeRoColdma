@@ -1,4 +1,4 @@
-### Olá! Me chamo Carlos! 👋
+### Olá! Pode me chamar de Carlos! 👋
 
 <div align="center">
   <a href="https://github.com/ZeRoColdma">

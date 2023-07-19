@@ -20,8 +20,4 @@
   <a href="https://instagram.com/carloss_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ccarloos9@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-silva-613a20b4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-![86718bca-ddea-4776-a86b-1257fb54cd80](https://user-images.githubusercontent.com/36204727/140667255-398eeb42-6d40-4018-affd-46b30cbe28e4.gif)
-
- 
 </div>
